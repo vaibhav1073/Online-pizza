@@ -1,0 +1,408 @@
+[
+
+    {
+  
+     "id": "001",
+  
+     "name": "Margherita",
+  
+     "vegetarian": true,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/j23ok15p0ge6cfwqpg8m",
+  
+     "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Fresh Basil"],
+  
+     "sizes": {
+  
+       "small": 299,
+  
+       "medium": 449,
+  
+       "large": 599
+  
+     }
+  
+    },
+  
+    {
+  
+     "id": "002",
+  
+     "name": "Pepperoni",
+  
+     "vegetarian": false,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/k7obrkkxrbhjosvrvbl2",
+  
+     "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Pepperoni Sausage"],
+  
+     "sizes": {
+  
+       "small": 349,
+  
+       "medium": 499,
+  
+       "large": 649
+  
+     }
+  
+    },
+  
+    {
+  
+     "id": "003",
+  
+     "name": "Hawaiian",
+  
+     "vegetarian": false,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/mwul8i0aeeddsimwgrhg",
+  
+     "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Ham", "Pineapple"],
+  
+     "sizes": {
+  
+       "small": 399,
+  
+       "medium": 549,
+  
+       "large": 699
+  
+     }
+  
+    },
+  
+    {
+  
+     "id": "004",
+  
+     "name": "Veggie Delight",
+  
+     "vegetarian": true,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/svcsf0pa1hepjmvoa0tu",
+  
+     "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Mushrooms", "Green Peppers", "Onions", "Black Olives"],
+  
+     "sizes": {
+  
+       "small": 329,
+  
+       "medium": 479,
+  
+       "large": 629
+  
+     }
+  
+    },
+  
+    {
+  
+     "id": "005",
+  
+     "name": "Four Cheese",
+  
+     "vegetarian": true,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/habcg26ont31ynb0qkrs",
+  
+     "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Parmesan Cheese", "Feta Cheese", "Cheddar Cheese"],
+  
+     "sizes": {
+  
+       "small": 349,
+  
+       "medium": 499,
+  
+       "large": 649
+  
+     }
+  
+    },
+  
+    {
+  
+     "id": "006",
+  
+     "name": "Meat Lovers",
+  
+     "vegetarian": false,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/uzjbzffwnerkwz3l8nff",
+  
+     "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Pepperoni Sausage", "Ham", "Bacon", "Ground Beef"],
+  
+     "sizes": {
+  
+       "small": 399,
+  
+       "medium": 549,
+  
+       "large": 699
+  
+     }
+  
+    },
+    {
+  
+     "id": "007",
+  
+     "name": "BBQ Chicken",
+  
+     "vegetarian": false,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/5e6beb1b5631a12c86e4daf359e48bcb",
+  
+     "toppings": ["Barbecue Sauce", "Mozzarella Cheese", "Grilled Chicken", "Red Onion", "Cilantro"],
+  
+     "sizes": {
+  
+       "small": 399,
+  
+       "medium": 549,
+  
+       "large": 699
+  
+     }
+  
+    },
+  
+    {
+  
+     "id": "008",
+  
+     "name": "Mushroom Truffle",
+  
+     "vegetarian": true,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nvjspcnj1yrzixqorbyh",
+  
+     "toppings": ["White Sauce", "Mozzarella Cheese", "Mushrooms", "Truffle Oil", "Parmesan Cheese"],
+  
+     "sizes": {
+  
+       "small": 449,
+  
+       "medium": 599,
+  
+       "large": 749
+  
+     }
+  
+    },
+  
+    {
+  
+     "id": "009",
+  
+     "name": "Tandoori Paneer",
+  
+     "vegetarian": true,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/s5ld93rsknx0fhj6xarn",
+  
+     "toppings": ["Tandoori Sauce", "Mozzarella Cheese", "Paneer", "Green Peppers", "Red Onion", "Tomato"],
+  
+     "sizes": {
+  
+       "small": 429,
+  
+       "medium": 579,
+  
+       "large": 729
+  
+     }
+  
+    },
+  
+    {
+  
+     "id": "010",
+  
+     "name": "Sausage & Mushroom",
+  
+     "vegetarian": false,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wxkubx9utynhs87cy9pg",
+  
+     "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Sausage", "Mushrooms", "Green Peppers"],
+  
+     "sizes": {
+  
+       "small": 349,
+  
+       "medium": 499,
+  
+       "large": 649
+  
+     }
+  
+    },
+  
+    {
+  
+     "id": "011",
+  
+     "name": "Garden Fresh",
+  
+     "vegetarian": true,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xvtphaxmdnpcr6boayik",
+  
+     "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Broccoli", "Mushrooms", "Green Peppers", "Red Onion", "Black Olives", "Tomato"],
+  
+     "sizes": {
+  
+       "small": 349,
+  
+       "medium": 499,
+  
+       "large": 639
+  
+     }
+  
+    },
+    {
+  
+     "id": "013",
+  
+     "name": "Spinach & Feta",
+  
+     "vegetarian": true,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hyw4gy1eshezwodblzaf",
+  
+     "toppings": ["White Sauce", "Mozzarella Cheese", "Spinach", "Feta Cheese"],
+  
+     "sizes": {
+  
+       "small": 349,
+  
+       "medium": 499,
+  
+       "large": 649
+  
+     }
+  
+    },
+  
+    {
+  
+     "id": "014",
+  
+     "name": "BBQ Chicken",
+  
+     "vegetarian": false,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nhyp4ae4xubgfpikdzxz",
+  
+     "toppings": ["BBQ Sauce", "Mozzarella Cheese", "Grilled Chicken", "Red Onion", "Cilantro"],
+  
+     "sizes": {
+  
+       "small": 429,
+  
+       "medium": 579,
+  
+       "large": 729
+  
+     }
+  
+    },
+  
+    {
+  
+     "id": "015",
+  
+     "name": "Mushroom Truffle Pizza",
+  
+     "vegetarian": true,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/sncgpavfsmdvxcwo04n8",
+  
+     "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Ricotta Cheese", "Parmesan Cheese", "Feta Cheese"],
+  
+     "sizes": {
+  
+       "small": 399,
+  
+       "medium": 549,
+  
+       "large": 699
+  
+     }
+  
+    },
+  
+    {
+  
+     "id": "016",
+  
+     "name": "Mushroom & Olive",
+  
+     "vegetarian": true,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/w2kwzivylkiubqvrkmmm",
+  
+     "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Mushrooms", "Black Olives"],
+  
+     "sizes": {
+  
+       "small": 349,
+  
+       "medium": 499,
+  
+       "large": 649
+  
+     }
+  
+    },
+  
+    {
+  
+     "id": "017",
+  
+     "name": "Dragon Chicken",
+  
+     "vegetarian": false,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vvguiq5z4gdcp0j86h9j",
+  
+     "toppings": ["Buffalo Sauce", "Mozzarella Cheese", "Grilled Chicken", "Red Onion", "Jalapenos", "Blue Cheese"],
+  
+     "sizes": {
+  
+       "small": 429,
+  
+       "medium": 579,
+  
+       "large": 729
+  
+     }
+  
+    },
+  
+    {
+  
+     "id": "018",
+  
+     "name": "Pesto & Tomato",
+  
+     "vegetarian": true,
+  
+     "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/o4rcewocpj7k1zqqnwz0",
+  
+     "toppings": ["Pesto Sauce", "Mozzarella Cheese", "Tomatoes"],
+  
+     "sizes": {
+  
+       "small": 399,
+  
+       "medium": 549,
+  
+       "large": 699
+  
+     }
+  
+    }
+]
